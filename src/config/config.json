@@ -1,0 +1,38 @@
+{
+  "site": {
+    "title": "HIGUAR - Servicio Industrial",
+    "base_url": "https://bigspring-light-astro.vercel.app",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/higuar.svg",
+    "logo": "/images/higuar_logo.png",
+    "logo_width": "200",
+    "logo_height": "38",
+    "logo_text": "Higuar"
+  },
+
+  "settings": {
+    "pagination": 4,
+    "summary_length": 200,
+    "blog_folder": "blog"
+  },
+
+  "nav_button": {
+    "enable": false,
+    "label": "GitHub </>",
+    "link": "https://github.com/dxASURxd"
+  },
+
+  "params": {
+    "contact_form_action": "",
+    "tag_manager_id": "",
+    "footer_content": "",
+    "copyright": "dx_asur_xd"
+  },
+
+  "metadata": {
+    "meta_author": "Themefisher",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Higuar - Servicio Industrial, reparaciones y multiservicios para el hogar u oficina"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "main": [
+    {
+      "name": "Inicio",
+      "url": "/"
+    },
+    {
+      "name": "Blog",
+      "url": "/blog"
+    },
+    {
+      "name": "Cotizaciones",
+      "url": "/pricing"
+    },
+    {
+      "name": "Contacto",
+      "url": "/contact"
+    },
+    {
+      "name": "FAQ",
+      "url": "/faq"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Blog",
+      "menu": [
+        {
+          "text": "Principal",
+          "url": "/blog"
+        }
+      ]
+    },
+    {
+      "name": "Soporte",
+      "menu": [
+        {
+          "text": "Dev: asur_xd@hotmail.com",
+          "url": ""
+        },
+        {
+          "text": "FAQ",
+          "url": "/faq"
+        },
+        {
+          "text": "Privacidad",
+          "url": "https://www.facebook.com/profile.php?id=100064221786266"
+        }
+      ]
+    }
+  ]
+}
