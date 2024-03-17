@@ -11,7 +11,6 @@ const { footer_content, copyright } = config.params;
 
 <footer class="section bg-theme-light pb-0">
   <div class="container">
-    {/* footer menu */}
     <div class="row">
       {
         menu.footer.map((col) => {
@@ -31,7 +30,6 @@ const { footer_content, copyright } = config.params;
           );
         })
       }
-      {/* social icons */}
       <div class="md-12 sm:col-6 lg:col-3">
         <a href="/" aria-label="Bigspring">
           <Image
@@ -46,7 +44,6 @@ const { footer_content, copyright } = config.params;
         <Social source={social} className="social-icons mb-8" />
       </div>
     </div>
-    {/* copyright */}
     <div class="border-t border-border py-6">
       <p class="text-sm text-center" set:html={markdownify(copyright)} />
     </div>
